@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hollend-furnishing/precache-manifest.c34e6380bef878b91a0d20d7d2e1b9b8.js"
+  "/hollend-furnishing/precache-manifest.cb0b9f095ba6606fd3d0e1fe9d560260.js"
 );
 
 self.addEventListener('message', (event) => {
