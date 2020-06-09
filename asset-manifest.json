@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hollend-furnishing/static/css/main.56b809d1.chunk.css",
-    "main.js": "/hollend-furnishing/static/js/main.90689c98.chunk.js",
-    "main.js.map": "/hollend-furnishing/static/js/main.90689c98.chunk.js.map",
+    "main.css": "/hollend-furnishing/static/css/main.a972a341.chunk.css",
+    "main.js": "/hollend-furnishing/static/js/main.1c4d7064.chunk.js",
+    "main.js.map": "/hollend-furnishing/static/js/main.1c4d7064.chunk.js.map",
     "runtime-main.js": "/hollend-furnishing/static/js/runtime-main.c9ef778b.js",
     "runtime-main.js.map": "/hollend-furnishing/static/js/runtime-main.c9ef778b.js.map",
     "static/js/2.e995eb9c.chunk.js": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js",
     "static/js/2.e995eb9c.chunk.js.map": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js.map",
     "index.html": "/hollend-furnishing/index.html",
-    "precache-manifest.0df1288727567ba779a966f9c3c0d5bb.js": "/hollend-furnishing/precache-manifest.0df1288727567ba779a966f9c3c0d5bb.js",
+    "precache-manifest.e20d5c7dfcca6b89217d721bd4e78789.js": "/hollend-furnishing/precache-manifest.e20d5c7dfcca6b89217d721bd4e78789.js",
     "service-worker.js": "/hollend-furnishing/service-worker.js",
-    "static/css/main.56b809d1.chunk.css.map": "/hollend-furnishing/static/css/main.56b809d1.chunk.css.map",
+    "static/css/main.a972a341.chunk.css.map": "/hollend-furnishing/static/css/main.a972a341.chunk.css.map",
     "static/js/2.e995eb9c.chunk.js.LICENSE.txt": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js.LICENSE.txt",
     "static/media/1105-black.png": "/hollend-furnishing/static/media/1105-black.124ccd65.png",
     "static/media/1221-3-black.png": "/hollend-furnishing/static/media/1221-3-black.79944891.png",
@@ -105,7 +105,7 @@
   "entrypoints": [
     "static/js/runtime-main.c9ef778b.js",
     "static/js/2.e995eb9c.chunk.js",
-    "static/css/main.56b809d1.chunk.css",
-    "static/js/main.90689c98.chunk.js"
+    "static/css/main.a972a341.chunk.css",
+    "static/js/main.1c4d7064.chunk.js"
   ]
 }
