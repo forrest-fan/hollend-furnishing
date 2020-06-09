@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hollend-furnishing/static/css/main.e924cd21.chunk.css",
+    "main.css": "/hollend-furnishing/static/css/main.7d852164.chunk.css",
     "main.js": "/hollend-furnishing/static/js/main.2fdbb61a.chunk.js",
     "main.js.map": "/hollend-furnishing/static/js/main.2fdbb61a.chunk.js.map",
     "runtime-main.js": "/hollend-furnishing/static/js/runtime-main.c9ef778b.js",
@@ -8,9 +8,9 @@
     "static/js/2.e995eb9c.chunk.js": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js",
     "static/js/2.e995eb9c.chunk.js.map": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js.map",
     "index.html": "/hollend-furnishing/index.html",
-    "precache-manifest.cb0b9f095ba6606fd3d0e1fe9d560260.js": "/hollend-furnishing/precache-manifest.cb0b9f095ba6606fd3d0e1fe9d560260.js",
+    "precache-manifest.cc1df183341b8e222330e75ab47ba786.js": "/hollend-furnishing/precache-manifest.cc1df183341b8e222330e75ab47ba786.js",
     "service-worker.js": "/hollend-furnishing/service-worker.js",
-    "static/css/main.e924cd21.chunk.css.map": "/hollend-furnishing/static/css/main.e924cd21.chunk.css.map",
+    "static/css/main.7d852164.chunk.css.map": "/hollend-furnishing/static/css/main.7d852164.chunk.css.map",
     "static/js/2.e995eb9c.chunk.js.LICENSE.txt": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js.LICENSE.txt",
     "static/media/1105-black.png": "/hollend-furnishing/static/media/1105-black.124ccd65.png",
     "static/media/1221-3-black.png": "/hollend-furnishing/static/media/1221-3-black.79944891.png",
@@ -105,7 +105,7 @@
   "entrypoints": [
     "static/js/runtime-main.c9ef778b.js",
     "static/js/2.e995eb9c.chunk.js",
-    "static/css/main.e924cd21.chunk.css",
+    "static/css/main.7d852164.chunk.css",
     "static/js/main.2fdbb61a.chunk.js"
   ]
 }
