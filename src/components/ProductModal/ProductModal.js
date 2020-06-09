@@ -32,7 +32,7 @@ class ProductModal extends React.Component {
 						×
 					</div>
 					<div className='modal-slideshow-container'>
-						<img src={this.state.modalImage} className='modal-img' />
+						<img src={this.state.modalImage} className='modal-img' loading='lazy' />
 					</div>
 					<div className='modal-text'>
 						<h1 className='modal-name'>{this.props.product.name} - {this.state.material}, {this.state.color}</h1>

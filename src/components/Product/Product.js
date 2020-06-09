@@ -32,7 +32,7 @@ class Product extends React.Component {
 		return(
 			<div className='product-container'>
 				<div className='img-container'>
-					<img src={this.props.product.img} className='product-img' onClick={this.openModal}/>
+					<img src={this.props.product.img} className='product-img' onClick={this.openModal} loading='lazy'/>
 				</div>
 				<div className='product-text-container'>
 					<div>
