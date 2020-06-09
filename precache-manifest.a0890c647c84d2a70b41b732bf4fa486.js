@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f282695b71ce2271fdfdf43a3e31ae1c",
+    "revision": "6ab29cbe6f749864f9aa05e58a428811",
     "url": "/hollend-furnishing/index.html"
   },
   {
-    "revision": "75e4263021dc3853809a",
-    "url": "/hollend-furnishing/static/css/main.7d852164.chunk.css"
+    "revision": "9cfd2751b74af234b2f8",
+    "url": "/hollend-furnishing/static/css/main.26d28721.chunk.css"
   },
   {
     "revision": "291bc942981235620540",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75e4263021dc3853809a",
-    "url": "/hollend-furnishing/static/js/main.2fdbb61a.chunk.js"
+    "revision": "9cfd2751b74af234b2f8",
+    "url": "/hollend-furnishing/static/js/main.90689c98.chunk.js"
   },
   {
     "revision": "2dbb6bd7e0b11a9baa0b",
