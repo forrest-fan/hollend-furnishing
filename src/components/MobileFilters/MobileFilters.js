@@ -39,10 +39,8 @@ class MobileFilters extends React.Component {
 								}
 							}}>Lounge</p>
 							<p className='filter-select' onClick={() => {
-								let filters = this.state.filters;
 								if (!this.props.filters.includes('Ergonomic Chairs')) {
-									filters.push('Ergonomic Chairs');
-									this.setState({filters: filters});
+									
 									this.props.updateFilters('Ergonomic Chairs', 'add', 'category');
 								}
 							}}>Ergonomic Chairs</p>
