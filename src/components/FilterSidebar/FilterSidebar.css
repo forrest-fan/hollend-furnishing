@@ -1,0 +1,157 @@
+.sidebar-container {
+	padding: 20px;
+	text-align: left;
+	width: 17.9%;
+	display: inline-block;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.sidebar-border {
+	height: 750px;
+	position: absolute;
+	z-index: -1;
+	right: 0px;
+	top: 30px;
+	border-right: 1px solid #98c9d9;
+}
+
+.sidebar-container h1 {
+	font-family: Lato;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.sidebar-container h2 {
+	font-family: Lato;
+	font-weight: bold;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+
+.sidebar-container p {
+	font-family: Crimson Text;
+	font-size: 17px;
+}
+
+.selected-filters {
+	margin: 15px 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	transition: margin 0.2s;
+}
+
+.selected-filters:empty {
+	margin: 0;
+}
+
+.selected {
+	border: 2px solid #5396AB;
+	color: #5396AB;
+	font-family: Lato;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 6px 10px;
+	margin: 5px;
+	border-radius: 25px;
+	transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+}
+
+.selected:hover {
+	cursor: pointer;
+	background-color: #f24646;
+	border-color: #f24646;
+	color: #fff;
+}
+
+.filter {
+	margin-left: 10px;
+	margin-bottom: 10px;
+	overflow: auto;
+	line-height: 0.8;
+}
+
+.filter-select {
+	transition: color 0.3s;
+}
+
+.filter-select:hover {
+	color: #5396AB;
+	cursor: pointer;
+}
+
+.filter-header-container {
+	position: relative;
+	padding-left: 10px;
+	background-color: #5396AB;
+	color: #fff;
+	border-radius: 10px;
+}
+
+.filter-header-container:hover {
+	cursor: pointer;
+}
+
+.filter-header {
+	display: inline-block;
+}
+
+.collapse {
+	display: inline-block;
+	font-size: 12px;
+	position: absolute;
+	top: 50%;
+	right: 10px;
+	transform: translateY(-50%);
+}
+
+.filter-content {
+	overflow: hidden;
+	transition: max-height 0.3s ease-in-out;
+	margin-left: 10px;
+}
+
+.color-block {
+	width: 12px;
+	height: 12px;
+	display: inline-block;
+	margin-right: 8px;
+	border-radius: 50%;
+}
+
+.white-block {
+	border: 1px solid #000;
+	box-sizing: border-box;
+}
+
+.black-block {
+	background-color: #000;
+}
+
+.beige-block {
+	background-color: #dbc5ab;
+}
+
+.red-block {
+	background-color: #cf5d5d;
+}
+
+.green-block {
+	background-color: #3d8f72;
+}
+
+.blue-block {
+	background-color: #5d7dcf;
+}
+
+.color-text {
+	display: inline-block;
+	margin: 0.5em 0;
+}
+
+@media (max-width: 1100px) {
+	.sidebar-container {
+		display: none;
+	}
+}

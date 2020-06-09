@@ -1,0 +1,39 @@
+.mobile-filter-container {
+	padding: 20px;
+	text-align: left;
+	width: 250px;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	display: none;
+	box-sizing: border-box;
+	position: fixed;
+	background-color: #fff;
+	box-shadow: 3px 3px 5px 2px #333;
+	z-index: 7;
+	transition: 0.5s;
+}
+
+.mobile-filter-container h1 {
+	font-family: Lato;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.mobile-filter-container h2 {
+	font-family: Lato;
+	font-weight: bold;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+
+.mobile-filter-container p {
+	font-family: Lato;
+	font-size: 16px;
+}
+
+@media (max-width: 1100px) {
+	.mobile-filter-container {
+		display: block;
+	}
+}

@@ -1,0 +1,90 @@
+@media (max-width: 750px) {
+	.modal-content {
+		padding: 10px 10px 20px 10px;
+	}
+
+	.modal-slideshow-container {
+		display: block;
+		text-align: center;
+		width: 100%;
+	}
+
+	.modal-img {
+		width: 40%;
+	}
+
+	.modal-text {
+		width: 100%;
+	}
+
+	.modal-name {
+		font-size: 26px;
+	}
+
+	.modal-price {
+		font-size: 22px;
+	}
+
+	.quantity {
+		font-size: 14px
+	}
+
+	.modal-color-label {
+		font-size: 16px;
+	}
+
+	.modal-color {
+		height: 14px;
+		width: 14px;
+	}
+
+	.modal-mat-label {
+		font-size: 16px;
+	}
+
+	.mat-block {
+		font-size: 15px;
+		padding: 4px 8px;
+		margin: 0px 2px;
+	}
+	.modal-cat {
+		font-size: 16px;
+	}
+}
+
+@media (max-width: 450px) {
+	.modal-img {
+		width: 60%;
+	}
+	.modal-name {
+		font-size: 23px;
+	}
+	.modal-price {
+		font-size: 20px;
+	}
+
+	.quantity {
+		font-size: 12px
+	}
+	.modal-color-label {
+		font-size: 14px;
+	}
+
+	.modal-color {
+		height: 12px;
+		width: 12px;
+	}
+
+	.modal-mat-label {
+		font-size: 14px;
+	}
+
+	.mat-block {
+		font-size: 13px;
+		padding: 4px 8px;
+		margin: 0px 2px;
+	}
+	.modal-cat {
+		font-size: 14px;
+	}
+}
