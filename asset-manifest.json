@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hollend-furnishing/static/css/main.e924cd21.chunk.css",
-    "main.js": "/hollend-furnishing/static/js/main.c7ae23f9.chunk.js",
-    "main.js.map": "/hollend-furnishing/static/js/main.c7ae23f9.chunk.js.map",
+    "main.js": "/hollend-furnishing/static/js/main.62ef2d3c.chunk.js",
+    "main.js.map": "/hollend-furnishing/static/js/main.62ef2d3c.chunk.js.map",
     "runtime-main.js": "/hollend-furnishing/static/js/runtime-main.c9ef778b.js",
     "runtime-main.js.map": "/hollend-furnishing/static/js/runtime-main.c9ef778b.js.map",
     "static/js/2.e995eb9c.chunk.js": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js",
     "static/js/2.e995eb9c.chunk.js.map": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js.map",
     "index.html": "/hollend-furnishing/index.html",
-    "precache-manifest.63d2f5fe2fefe9fe46010313f776d4bd.js": "/hollend-furnishing/precache-manifest.63d2f5fe2fefe9fe46010313f776d4bd.js",
+    "precache-manifest.c34e6380bef878b91a0d20d7d2e1b9b8.js": "/hollend-furnishing/precache-manifest.c34e6380bef878b91a0d20d7d2e1b9b8.js",
     "service-worker.js": "/hollend-furnishing/service-worker.js",
     "static/css/main.e924cd21.chunk.css.map": "/hollend-furnishing/static/css/main.e924cd21.chunk.css.map",
     "static/js/2.e995eb9c.chunk.js.LICENSE.txt": "/hollend-furnishing/static/js/2.e995eb9c.chunk.js.LICENSE.txt",
@@ -97,7 +97,7 @@
     "static/media/7894-beige.png": "/hollend-furnishing/static/media/7894-beige.9fa0733d.png",
     "static/media/7894-black.png": "/hollend-furnishing/static/media/7894-black.dd5ddaee.png",
     "static/media/7894-white.png": "/hollend-furnishing/static/media/7894-white.ae28b6c4.png",
-    "static/media/logo.png": "/hollend-furnishing/static/media/logo.290dc7d5.png",
+    "static/media/logo.png": "/hollend-furnishing/static/media/logo.f868c218.png",
     "static/media/ts1260-3-beige.png": "/hollend-furnishing/static/media/ts1260-3-beige.7428c129.png",
     "static/media/ts1260-3-black.png": "/hollend-furnishing/static/media/ts1260-3-black.8e58bf06.png",
     "static/media/ts1260-3-white.png": "/hollend-furnishing/static/media/ts1260-3-white.098d1761.png"
@@ -106,6 +106,6 @@
     "static/js/runtime-main.c9ef778b.js",
     "static/js/2.e995eb9c.chunk.js",
     "static/css/main.e924cd21.chunk.css",
-    "static/js/main.c7ae23f9.chunk.js"
+    "static/js/main.62ef2d3c.chunk.js"
   ]
 }
