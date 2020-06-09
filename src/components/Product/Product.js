@@ -39,7 +39,7 @@ class Product extends React.Component {
 						<h1 className='product-name' onClick={this.openModal}>{this.props.product.name}</h1>
 						{this.props.product.fav ? <i className='product-star fas fa-star' onClick={this.toggleFav} title='Added to Favourites'></i> : <i className='product-star far fa-star' onClick={this.toggleFav} title='Add to Favourites'></i>}
 					</div>
-					<p className='model-num'>#{this.props.product.number} - {this.props.product.category.toUpperCase()}</p>
+					<p className='num-cat'>#{this.props.product.number} - {this.props.product.category.toUpperCase()}</p>
 					<p className='model-price'>${this.props.product.price}.00</p>
 				</div>
 				{this.state.modalOpen ? <ProductModal product={this.props.product} handleClose={this.closeModal} toggleFav={this.toggleFav}/> : <div></div>}
