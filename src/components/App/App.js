@@ -159,7 +159,7 @@ class App extends React.Component {
 			});
 		} else if (sortMethod === 'item-num') {
 			renderProducts = renderProducts.sort((a, b) => {
-				if (a.name.substring(0, 4) < b.name.substring(0, 4)) {
+				if (a.number.substring(0, 4) < b.number.substring(0, 4)) {
 					return -1;
 				} else {
 					return 1;
@@ -206,7 +206,11 @@ class App extends React.Component {
 			});
 		} else if (sortMethod === 'item-num') {
 			renderProducts = renderProducts.sort((a, b) => {
-				return a.number - b.number;
+				if (a.number.substring(0, 4) < b.number.substring(0, 4)) {
+					return -1;
+				} else {
+					return 1;
+				}
 			});
 		}
 		
